@@ -1,0 +1,33 @@
+28
+31
+############################
+#pppppppppppp##pppppppppppp#
+#p####p#####p##p#####p####p#
+#o#  #p#   #p##p#   #p#  #o#
+#p####p#####p##p#####p####p#
+#pppppppppppppppppppppppppp#
+#p####p##p########p##p####p#
+#p####p##p########p##p####p#
+#pppppp##pppp##pppp##pppppp#
+######p##### ## #####p######
+     #p##### ## #####p#     =
+     #p##          ##p#     =
+     #p## xxx--xxx ##p#     =
+######p## x      x ##p######
+      p   x      x   p      =
+######p## x      x ##p######
+     #p## xxxxxxxx ##p#     =
+     #p##          ##p#     =
+     #p## ######## ##p#     =
+######p## ######## ##p######
+#pppppppppppp##pppppppppppp#
+#p####p#####p##p#####p####p#
+#p####p#####p##p#####p####p#
+#opp##ppppppp  ppppppp##ppo#
+###p##p##p########p##p##p###
+###p##p##p########p##p##p###
+#pppppp##pppp##pppp##pppppp#
+#p##########p##p##########p#
+#p##########p##p##########p#
+#pppppppppppppppppppppppppp#
+############################
